@@ -218,3 +218,59 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u14 {
+  position:absolute;
+  left:25px;
+  top:220px;
+  width:100px;
+  height:60px;
+}
+#u14_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:60px;
+}
+#u15 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u14_ref {
+  position:absolute;
+  left:117px;
+  top:270px;
+  width:1px;
+  height:1px;
+}
+#u16 {
+  position:absolute;
+  left:70px;
+  top:165px;
+  width:10px;
+  height:55px;
+}
+#u16_start {
+  position:absolute;
+  left:-5px;
+  top:0px;
+  width:20px;
+  height:18px;
+}
+#u16_end {
+  position:absolute;
+  left:-5px;
+  top:38px;
+  width:20px;
+  height:18px;
+}
+#u16_line {
+  position:absolute;
+  left:5px;
+  top:0px;
+  width:1px;
+  height:55px;
+}
